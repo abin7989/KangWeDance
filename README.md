@@ -1,6 +1,7 @@
 # 🦘캥 위 댄스 🦘 
 <div align="center">
-<img src="/uploads/e9fccaaa499abf64318ce1e735070025/image.png">
+	
+<img src="https://github.com/abin7989/CodingStudy/assets/63704941/600f7f94-f8b4-4323-b716-36dc4fdccc6c">
 <h4> 👪 부모와 아이가 함께하는 댄스형 헬스 게임👪 </h4>
 <p> 부모와 아이가 율동 체조를 함께 즐기며 유대감을 기르고
 <br>운동을 통한 건강까지 챙길 수 있는 서비스 </p>
@@ -64,7 +65,7 @@
 # 💡 서비스 개요
 (1) 놀이를 통한 부모와 아이의 유대감 형성
 
-![image](/uploads/83ee94aedecfafaf9cdf62efae9960c7/image.png)
+![image](https://github.com/abin7989/CodingStudy/assets/63704941/63756154-fe39-439d-bfb4-f7e8a77c2308)
 
 ✅ __성장기 아이와 부모의 교감은 중요하다.__
 
@@ -72,7 +73,7 @@
 
 (2) 소아 비만 문제
 
-![image](/uploads/9c583ea828f5f7aa87851eb1a3f6d616/image.png)
+![image](https://github.com/abin7989/CodingStudy/assets/63704941/dccb8b1f-fd06-4426-b498-3703fdab6f94)
 
 ✅ __코로나19 시기 온라인 수업과 체육 활동의 최소화, 불규칙한 식생활 습관 등으로 소아 비만이 증가하고 있다.__
 - 이는 고지혈증, 지방간, 고혈압, 당뇨병 같은 성인병으로 이어진다.
